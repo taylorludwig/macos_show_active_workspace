@@ -1,6 +1,15 @@
 # macOS Show Active Workspace
 
-A lightweight menubar utility that displays your current macOS workspace number.
+A lightweight menubar utility that displays your current macOS workspace number with a background matching your system's accent color. Perfect for users who want a visual indicator of their current workspace that seamlessly integrates with macOS's design language.
+
+![Workspace 1](screenshots/workspace1.png) ![Workspace 2](screenshots/workspace2.png)
+
+## Features
+- Shows current workspace number in the menu bar
+- Automatically matches your system accent color
+- Updates instantly when switching spaces
+- Minimal resource usage
+- Native macOS look and feel
 
 ## Quick Installation
 
